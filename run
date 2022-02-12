@@ -4500,7 +4500,7 @@ def buat_tgl():
 def konfo():
 	no_wa = "6283143565470"
 	os.system("clear")
-#	print (logo)
+	print (logo)
 	try:
 		id1 = open(".datame1", "r").read()
 	except:
